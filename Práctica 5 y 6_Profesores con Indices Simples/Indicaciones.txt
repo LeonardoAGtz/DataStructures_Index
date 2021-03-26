@@ -1,0 +1,10 @@
+Realiza un programa a travez de indices simples, gestionando informacion de profesores rfc, nombre, teléfono, correro, departamento, estado
+
+El campo llave es el rfc. Cuenta con: 
+Crear-Mostrar-Modificar-Buscar-Eliminar-Desactivar-Activar-Ordenr
+
+Todas las operacines se realizan con el RFC, no editable y único
+
+------------------------------------------------------------------------------
+
+Implementar el ordenamiento descendente.
